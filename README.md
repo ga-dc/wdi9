@@ -4,7 +4,7 @@
 
 - [Attendance](attendance.md)
 
-- [Calendar](http://ga-dc.github.io/wdi8/calendar.html)
+- [Calendar](http://ga-dc.github.io/wdi9/calendar.html)
 
 - [Classroom Rotation](classroom-rotation.md)
 
@@ -39,10 +39,8 @@ Your one-stop-shop for tracking your attendance, homework submissions, and more!
 
 ## Slack
 - Rooms
-  - [wdi-dc-8-students](https://ga-students.slack.com/messages/wdi-dc-8-students/)
-  - [wdi-dc-8-announcements](https://ga-students.slack.com/messages/wdi-dc-8-announce/)
-  - [wdi-dc-8-classroom-4](https://ga-students.slack.com/messages/wdi-dc-8-classroom-4/)
-  - [wdi-dc-8-classroom-6](https://ga-students.slack.com/messages/wdi-dc-8-classroom-4/)
+  - [wdi-dc-9-students](https://ga-students.slack.com/messages/wdi-dc-9-students/)
+  - [wdi-dc-9-announcements](https://ga-students.slack.com/messages/wdi-dc-9-announce/)
   - [wdi-fundamentals](https://ga-students.slack.com/messages/wdi-fundamentals/)
 
 - Tips
