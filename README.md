@@ -6,8 +6,6 @@
 
 - [Calendar](http://ga-dc.github.io/wdi9/calendar.html)
 
-- [Classroom Rotation](classroom-rotation.md)
-
 - [Homework Policy](homework-policy.md)
 
 - [Incentives](incentives.md)
