@@ -1,22 +1,22 @@
 # Squads
 
 ## Adam
-- Lauren Kennedy
-- Joshua Nezianya
-- Zaneh Williams
-- Michael Nahum
+- Antony Mastroniani
+- Habby Whyte
+- Hewan Abreha
+- James Reichard
 - Jordan Ballard
 
 ## Andy
-- Mary Griffus
+- Joshua Nezianya
+- Lauren Kennedy
 - Leland Jordan
-- Habby Whyte
-- Hewan Abreha
-- Antony Mastroniani
+- Louis Hankins
+- Martinas Terskin
 
 ## Tyler
-- Wes Reed
-- Martinas Terskin
-- Louis Hankins
-- James Reichard
+- Mary Griffus
 - Matthew Vaden
+- Michael Nahum
+- Wes Reed
+- Zaneh Williams
