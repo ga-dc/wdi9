@@ -19,7 +19,7 @@
 
 - [Squads](squads.md)
 
-- [Outcomes Roadmap](https://docs.google.com/document/d/1uxq2Z_UPrlUJSlSGXgOWfC-A-3F6tWdzd1uqMxcaktA/edit)
+- [Outcomes Roadmap](https://docs.google.com/document/d/1SfSrfDMNEi8eQQJqrfQpjjlzlFBRS4XGnbcB97qaDFE/edit)
 
 ## [GArnet](http://garnet.wdidc.org)
 Your one-stop-shop for tracking your attendance, homework submissions, and more!
