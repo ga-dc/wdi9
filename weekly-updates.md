@@ -10,7 +10,7 @@
 
 - Schedule
   Link to Calendar:
-  - http://ga-dc.github.io/wdi8/calendar.html
+  - http://ga-dc.github.io/wdi9/calendar.html
 
 - Outcomes Event & Details
   - Introduction to Outcomes & the DC Tech Community
