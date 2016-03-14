@@ -1,24 +1,16 @@
 # WDI9
 ## Table of Contents
+
 - [Asking for Help](asking-for-help.md)
-
 - [Attendance](attendance.md)
-
 - [Calendar](http://ga-dc.github.io/wdi9/calendar.html)
-
 - [Homework Policy](homework-policy.md)
-
 - [Incentives](incentives.md)
   - Includes attendance and homework policies
-
 - [Office Hours](office-hours.md)
-
 - [One-on-Ones](one-on-ones.md)
-
 - [Schedule, Scope, and Sequence](scope-and-sequence.md)
-
 - [Squads](squads.md)
-
 - [Outcomes Roadmap](https://docs.google.com/document/d/1SfSrfDMNEi8eQQJqrfQpjjlzlFBRS4XGnbcB97qaDFE/edit)
 
 ## [GArnet](http://garnet.wdidc.org)
