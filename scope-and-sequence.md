@@ -29,7 +29,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Lab: Hangman](https://github.com/ga-wdi-exercises/hangman-lab)
     - [HW: Pixart](https://github.com/ga-wdi-exercises/pixart_js)
   - [Quiz 2](https://github.com/ga-wdi-quizzes/week-02)
-  - [Intermediate CSS]()
+  - [Intermediate CSS](https://github.com/ga-wdi-lessons/css-intermediate)
   - [User Stories and Problem Modeling](https://github.com/ga-wdi-lessons/user-stories-and-problem-modeling)
 
 ## Project 1
