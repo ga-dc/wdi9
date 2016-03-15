@@ -1,11 +1,11 @@
 # Squads
 
 ## Adam
-- Antony Mastroniani
-- Habby Whyte
-- Hewan Abreha
-- James Reichard
-- Jordan Ballard
+- Antony Mastroniani (Tuesday at 1:40)
+- Habby Whyte (Wedneday at 1:30)
+- Hewan Abreha (Wedneday at 2:00)
+- James Reichard (Thursday at 1:30)
+- Jordan Ballard (Thursday at 2:00)
 
 ## Andy
 - Joshua Nezianya
