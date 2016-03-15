@@ -11,11 +11,13 @@
 | Jordan Ballard | Thursday at 2:00 |
 
 ## Andy
-- Joshua Nezianya
-- Lauren Kennedy
-- Leland Jordan
-- Louis Hankins
-- Martinas Terskin
+| Name | Time |
+|------|------|
+|Lauren Kennedy| Tuesday at 1:30 |
+|Joshua Nezianya| Wednesday at 1:30 |
+|Leland Jordan| Wednesday at 2:00 |
+|Louis Hankins| Thursday at 1:30 |
+|Martinas Terskin| Thursday at 2:00 |
 
 ## Tyler
 - Mary Griffus
