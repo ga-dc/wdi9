@@ -10,7 +10,8 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [HW: Git Haiku](https://github.com/ga-wdi-exercises/haiku)
   - [CSS Review](https://github.com/ga-wdi-lessons/css-review)
     - [HW: Wendy Bite](https://github.com/ga-wdi-exercises/wendy_bite)
-    - [Bonus HW: Hippy Portfolio](https://github.com/ga-wdi-exercises/hippy-portfolio)
+    - [HW: Read Learn Layout](http://learnlayout.com) - just read this, no submission.
+    - [(Bonus) HW: Hippy Portfolio](https://github.com/ga-wdi-exercises/hippy-portfolio)
   - [Git Branching](https://github.com/ga-wdi-lessons/git-branching)
   - [Lab: Portfolio Pages](https://github.com/ga-wdi-exercises/portfolio_pages)
   - [Mini: HTML Review](https://github.com/ga-wdi-lessons/html-review)
