@@ -9,7 +9,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Git and Github Intro](https://github.com/ga-wdi-lessons/git-intro)
     - [HW: Git Haiku](https://github.com/ga-wdi-exercises/haiku)
   - [CSS Review](https://github.com/ga-wdi-lessons/css-review)
-    - [HW: Wendy Bite](https://github.com/ga-wdi-exercises/wendy_bite)
+    - [HW: Hippy Portfolio](https://github.com/ga-wdi-exercises/hippy-portfolio)
   - [Git Branching](https://github.com/ga-wdi-lessons/git-branching)
   - [Lab: Portfolio Pages](https://github.com/ga-wdi-exercises/portfolio_pages)
   - [Mini: HTML Review](https://github.com/ga-wdi-lessons/html-review)
