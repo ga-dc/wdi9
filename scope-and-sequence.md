@@ -19,7 +19,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
 
 ## Vanilla Javascript
   - [Pseudocoding and Problem-Solving](https://github.com/ga-wdi-lessons/pseudocode)
-  - [Javascript Intro](https://github.com/ga-wdi-lessons/js-intro)
+  - [Javascript Intro](https://github.com/ga-wdi-lessons/js-intro/tree/wdi9)
     - [HW: Choose Your Own Adventure](https://github.com/ga-wdi-exercises/choose_your_own_adventure_js)
   - [Objects and Functions](https://github.com/ga-wdi-lessons/js-objects-functions)
     - [HW: Calculator](https://github.com/ga-wdi-exercises/js-calculator)
