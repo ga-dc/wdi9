@@ -10,6 +10,8 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [HW: Git Haiku](https://github.com/ga-wdi-exercises/haiku)
   - [CSS Review](https://github.com/ga-wdi-lessons/css-review)
     - [HW: Wendy Bite](https://github.com/ga-wdi-exercises/wendy_bite)
+    - [HW: Read Learn Layout](http://learnlayout.com) - just read this, no submission.
+    - [(Bonus) HW: Hippy Portfolio](https://github.com/ga-wdi-exercises/hippy-portfolio)
   - [Git Branching](https://github.com/ga-wdi-lessons/git-branching)
   - [Lab: Portfolio Pages](https://github.com/ga-wdi-exercises/portfolio_pages)
   - [Mini: HTML Review](https://github.com/ga-wdi-lessons/html-review)
@@ -17,7 +19,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
 
 ## Vanilla Javascript
   - [Pseudocoding and Problem-Solving](https://github.com/ga-wdi-lessons/pseudocode)
-  - [Javascript Intro](https://github.com/ga-wdi-lessons/js-intro)
+  - [Javascript Intro](https://github.com/ga-wdi-lessons/js-intro/tree/wdi9)
     - [HW: Choose Your Own Adventure](https://github.com/ga-wdi-exercises/choose_your_own_adventure_js)
   - [Objects and Functions](https://github.com/ga-wdi-lessons/js-objects-functions)
     - [HW: Calculator](https://github.com/ga-wdi-exercises/js-calculator)

@@ -1,18 +1,23 @@
 # Squads
 
 ## Adam
-- Antony Mastroniani
-- Habby Whyte
-- Hewan Abreha
-- James Reichard
-- Jordan Ballard
+
+| Name | Time |
+|------|------|
+| Antony Mastroniani | Tuesday at 1:40 |
+|Habby Whyte | Wedneday at 1:30 |
+| Hewan Abreha | Wedneday at 2:00 |
+| James Reichard | Thursday at 1:30 |
+| Jordan Ballard | Thursday at 2:00 |
 
 ## Andy
-- Joshua Nezianya
-- Lauren Kennedy
-- Leland Jordan
-- Louis Hankins
-- Martinas Terskin
+| Name | Time |
+|------|------|
+|Lauren Kennedy| Tuesday at 1:30 |
+|Joshua Nezianya| Wednesday at 1:30 |
+|Leland Jordan| Wednesday at 2:00 |
+|Louis Hankins| Thursday at 1:30 |
+|Martinas Terskin| Thursday at 2:00 |
 
 ## Tyler
 - Mary Griffus
