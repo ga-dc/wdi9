@@ -24,6 +24,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Objects and Functions](https://github.com/ga-wdi-lessons/js-objects-functions/tree/wdi9)
     - [HW: Calculator](https://github.com/ga-wdi-exercises/js-calculator)
   - [DOM Manipulation](https://github.com/ga-wdi-lessons/js-dom/tree/wdi9)
+    - [Take the Money and Run](https://github.com/ga-wdi-exercises/ttmar)
   - [Debugging](https://github.com/ga-wdi-lessons/js-debugging)
   - [Scope and Context](https://github.com/ga-wdi-lessons/js-scope)
     - [HW: High Card](https://github.com/ga-wdi-exercises/high-card-js)
