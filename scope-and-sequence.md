@@ -27,7 +27,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [HW: Take the Money and Run](https://github.com/ga-wdi-exercises/ttmar)
   - [Debugging](https://github.com/ga-wdi-lessons/js-debugging)
   - [Scope and Context](https://github.com/ga-wdi-lessons/js-scope)
-    - [HW: High Card](https://github.com/ga-wdi-exercises/high-card-js)
+    - [HW: Checkout](https://github.com/ga-wdi-exercises/checkout)
   - [Events and Callbacks](https://github.com/ga-wdi-lessons/js-events-callbacks)
   - [Lab: Hangman](https://github.com/ga-wdi-exercises/hangman-lab)
     - [HW: Pixart](https://github.com/ga-wdi-exercises/pixart_js)
