@@ -4,11 +4,11 @@
 
 | Name | Time |
 |------|------|
-| Antony Mastroniani | Tuesday at 1:40 |
-|Habby Whyte | Wedneday at 1:30 |
 | Hewan Abreha | Wedneday at 2:00 |
-| James Reichard | Thursday at 1:30 |
-| Jordan Ballard | Thursday at 2:00 |
+| Habby Whyte | Thursday at 2:30 |
+| Antony Mastroniani | Thursday at 3:00 |
+| James Reichard | Friday at 1:00 |
+| Jordan Ballard | Friday at 1:30 |
 
 ## Andy
 | Name | Time |
