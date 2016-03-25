@@ -34,7 +34,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [Bonus Lab 2: Hangman](https://github.com/ga-wdi-exercises/hangman-lab)
   - [HW: Pixart](https://github.com/ga-wdi-exercises/pixart_js) (due friday at 9am!)
   - [Quiz 2](https://github.com/ga-wdi-quizzes/week-02)
-  - [Intermediate CSS](https://github.com/ga-wdi-lessons/css-intermediate)
+  - [CSS Grids](https://github.com/ga-wdi-lessons/css-grids)
   - [User Stories and Problem Modeling](https://github.com/ga-wdi-lessons/user-stories-and-problem-modeling)
 
 ## Project 1
