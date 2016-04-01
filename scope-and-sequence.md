@@ -42,19 +42,14 @@ Subject to change. Download this whole thing in one convenient package using [Cu
 
 ## Object-Oriented Javascript
   - [jQuery Intro](https://github.com/ga-wdi-lessons/js-jquery)
-    - [HW: Final Countdown](https://github.com/ga-wdi-exercises/final-countdown)
   - [jQuery Practice](https://github.com/ga-wdi-lessons/jquery-practice)
-    - [HW: ATM](https://github.com/ga-wdi-exercises/atm)
+    - [HW: Pixart (using jQuery this time)](https://github.com/ga-wdi-exercises/pixart_js)
+  - [Quiz 2](https://ga-quiz.herokuapp.com)
   - [Prototypes and Constructors](https://github.com/ga-wdi-lessons/js-prototypes-constructors)
     - [HW: JS Geometry](https://github.com/ga-wdi-exercises/js_geometry)
   - [OOJS / Components]()
-  - [Project 1 Refactoring Lab](https://github.com/ga-wdi-lessons/refactoring)
-  - [jQuery Plugins](https://github.com/ga-wdi-lessons/jquery-plugins)
-  - [Code Retreat](https://github.com/ga-wdi-exercises/code_retreat)
-  - [Refactoring](https://github.com/ga-wdi-lessons/refactoring)
   - [Lab: Tic Tac Toe](https://github.com/ga-wdi-exercises/tic_tac_toe)
-  - [Quiz 3](https://github.com/ga-wdi-quizzes/week-04)
-
+  
 ## Raw Ruby
   - [HW: Try Ruby](https://github.com/ga-wdi-exercises/try-ruby)
   - [Ruby Intro](https://github.com/ga-wdi-lessons/ruby-intro)
