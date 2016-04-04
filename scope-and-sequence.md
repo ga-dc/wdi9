@@ -46,7 +46,8 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [HW: Pixart (using jQuery this time)](https://github.com/ga-wdi-exercises/pixart_js)
   - [Quiz 2](https://ga-quiz.herokuapp.com)
   - [Prototypes and Constructors](https://github.com/ga-wdi-lessons/js-prototypes-constructors)
-    - [HW: JS Geometry](https://github.com/ga-wdi-exercises/js_geometry)
+    - [HW: Cash Register Components](https://github.com/ga-wdi-exercises/cash-register)
+    - Start using the `solution-procedural` branch and refactor into a component form. Add two instances of a cash register to one page.
   - [OOJS / Components](https://github.com/ga-wdi-lessons/js-components)
   - [Lab: Tic Tac Toe](https://github.com/ga-wdi-exercises/tic_tac_toe)
   
