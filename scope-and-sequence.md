@@ -48,6 +48,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Prototypes and Constructors](https://github.com/ga-wdi-lessons/js-prototypes-constructors)
     - [HW: Cash Register Components](https://github.com/ga-wdi-exercises/cash-register)
     - Start using the `solution-procedural` branch and refactor into a component form. Add two instances of a cash register to one page.
+    - Due Wednesday @ 9am
   - [OOJS / Components](https://github.com/ga-wdi-lessons/js-components)
   - [Lab: Tic Tac Toe](https://github.com/ga-wdi-exercises/tic_tac_toe)
   
