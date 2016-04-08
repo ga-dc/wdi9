@@ -51,22 +51,22 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - Due Wednesday @ 9am
   - [OOJS / Components](https://github.com/ga-wdi-lessons/js-components)
   - [Lab: Tic Tac Toe](https://github.com/ga-wdi-exercises/tic_tac_toe)
-  
+
 ## Raw Ruby
   - [HW: Try Ruby](https://github.com/ga-wdi-exercises/try-ruby)
   - [Ruby Intro](https://github.com/ga-wdi-lessons/ruby-intro)
   - [Enumerables](https://github.com/ga-wdi-lessons/ruby-enumerables)
     - [HW: High Card](https://github.com/ga-wdi-exercises/high_card)
-  - [OOP: Classes](https://github.com/ga-wdi-lessons/ruby-oop)
-    - [HW: Scrabbler](https://github.com/ga-wdi-exercises/scrabbler)
-  - [OOP: Inheritance](https://github.com/ga-wdi-lessons/ruby-oop-inheritance)
-  - [TDD and RSpec](https://github.com/ga-wdi-lessons/rspec)
   - [SQL, ERDs, and Domain Modeling](https://github.com/ga-wdi-lessons/sql-erd)
-    - [HW: NBA Stats](https://github.com/ga-wdi-exercises/nba_stats)
+  - Enumerables Lab
+    - [HW: Landlord / Apartments Parts 1 & 2](https://github.com/ga-wdi-exercises/landlord_ruby_no_AR)
+  - [OOP: Classes](https://github.com/ga-wdi-lessons/ruby-oop)
+  - [OOP: Inheritance](https://github.com/ga-wdi-lessons/ruby-oop-inheritance)
+    - [HW: Landlord / Apartments Part 3](https://github.com/ga-wdi-exercises/landlord_ruby_no_AR)
+    - [Bonus HW: Scrabbler](https://github.com/ga-wdi-exercises/scrabbler)
   - [ActiveRecord](https://github.com/ga-wdi-lessons/activerecord-intro)
     - [HW: Moma DB](https://github.com/ga-wdi-exercises/moma_db)
-  - [Lab: Gladiator](https://github.com/ga-wdi-exercises/gladiator)
-  - [Quiz 4](https://github.com/ga-wdi-quizzes/week-05)
+  - [Moved (TBA): TDD and RSpec](https://github.com/ga-wdi-lessons/rspec)
 
 ## Rails
   - [Intro to MVC, HTTP, REST, and Rails](https://github.com/ga-wdi-lessons/mvc-intro-rails)
