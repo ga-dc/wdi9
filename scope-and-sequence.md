@@ -65,7 +65,16 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [HW: Landlord / Apartments Part 3](https://github.com/ga-wdi-exercises/landlord_ruby_no_AR)
     - [Bonus HW: Scrabbler](https://github.com/ga-wdi-exercises/scrabbler)
   - [ActiveRecord](https://github.com/ga-wdi-lessons/activerecord-intro)
-    - [HW: Moma DB](https://github.com/ga-wdi-exercises/moma_db)
+    - [Landlord Active Record](https://github.com/ga-wdi-exercises/landlord)
+    - [Watch this 5 minute video about how the internet works](https://www.youtube.com/watch?v=7_LPdttKXPc)
+
+## Sinatra
+
+  - [Intro to the Web & Internet](https://github.com/ga-wdi-lessons/web-intro)
+  - [Intro to Sinatra](https://github.com/ga-wdi-lessons/sinatra-rest)
+    - [Sinatra Views](https://github.com/ga-wdi-lessons/sinatra-rest/blob/master/views.md)
+  - [Sinatra Forms]()
+  - [Lab: Sinatra + Active Record ](https://github.com/ga-wdi-lessons/sinatra-and-activerecord)
   - [Moved (TBA): TDD and RSpec](https://github.com/ga-wdi-lessons/rspec)
 
 ## Rails
