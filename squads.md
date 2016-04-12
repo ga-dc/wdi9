@@ -4,10 +4,10 @@
 
 Name               | Time
 ------------------ | ----------------
-Hewan Abreha       | Wedneday at 2:00
-Habby Whyte        | Thursday at 2:30
-Antony Mastroniani | Thursday at 3:00
-James Reichard     | Friday at 1:00
+Hewan Abreha       | Wedneday at 1:30
+Habby Whyte        | Wednesday at 2:00
+Antony Mastroniani | Thursday at 1:30
+James Reichard     | Thursday at 2:00
 Jordan Ballard     | Friday at 1:30
 
 ## Tyler
