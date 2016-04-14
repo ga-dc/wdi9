@@ -25,7 +25,7 @@ Martinas Terskin | Thursday at 2:00
 Name           | Time
 -------------- | -----------------
 Wes Reed       | Tuesday at 1:30
-Michael Nahum  | Tuesday at 2:00
 Matthew Vaden  | Wednesday at 1:30
 Mary Griffus   | Wednesday at 2:00
 Zaneh Williams | Thursday at 1:30
+Michael Nahum  | Thursday at 2:30
