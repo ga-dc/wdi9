@@ -78,9 +78,11 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Moved (TBA): TDD and RSpec](https://github.com/ga-wdi-lessons/rspec)
 
 ## Rails
-  - [Intro to MVC, HTTP, REST, and Rails](https://github.com/ga-wdi-lessons/mvc-intro-rails)
-    - [HW: Scribble](https://github.com/ga-wdi-exercises/scribble)
+  - [Intro to MVC, HTTP, REST, and Rails](https://github.com/ga-wdi-lessons/http-mvc-intro-rails)
+  - [Porting Sinatra Tunr to Rails](https://github.com/ga-wdi-lessons/porting-sinatra-to-rails)
+    - [HW: Reading Rails Guides - Getting Started w/ Rails](http://guides.rubyonrails.org/getting_started.html)   
   - [Views and Controllers](https://github.com/ga-wdi-lessons/rails-views)
+    - [HW: Scribble](https://github.com/ga-wdi-exercises/scribble)
   - [Models and Migrations](https://github.com/ga-wdi-lessons/rails-activerecord)
   - [Routing and Resources](https://github.com/ga-wdi-lessons/rails-routing)
   - [Writing and Using Helpers](https://github.com/ga-wdi-lessons/rails-helpers)
