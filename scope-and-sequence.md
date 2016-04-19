@@ -80,16 +80,11 @@ Subject to change. Download this whole thing in one convenient package using [Cu
 ## Rails
   - [Intro to MVC, HTTP, REST, and Rails](https://github.com/ga-wdi-lessons/mvc-intro-rails)
     - [HW: Scribble](https://github.com/ga-wdi-exercises/scribble)
-  - [Views and Controllers](https://github.com/ga-wdi-lessons/rails-views)
-  - [Models and Migrations](https://github.com/ga-wdi-lessons/rails-activerecord)
-  - [Routing and Resources](https://github.com/ga-wdi-lessons/rails-routing)
-  - [Writing and Using Helpers](https://github.com/ga-wdi-lessons/rails-helpers)
-  - [Validations, Flash, and Error Handling](https://github.com/ga-wdi-lessons/rails-errors)
-  - Model Methods
-  - [Lab: Hogwarts](https://github.com/ga-wdi-exercises/hogwarts_rails)
+  - [Rails Read, Create, Delete](https://github.com/ga-wdi-lessons/rails_features_CRD)
+  - [Rails Edit, Update, and Partials](https://github.com/ga-wdi-lessons/rails-features-U-partials)
+  - [Validations, Flash, and Error Handling](https://github.com/ga-wdi-lessons/rails-errors-validations-flash)
+  - [Associations Forms in Rails]()
   - [Mini: Deployment and the Asset Pipeline](https://github.com/ga-wdi-lessons/rails-deployment)
-  - [Mini: How to Retroactively Add Devise](https://github.com/ga-wdi-lessons/rails-auth)
-  - [Quiz 5](https://github.com/ga-wdi-quizzes/week-06)
 
 ## Project 2
   - [Project 2](https://github.com/ga-wdi-exercises/project2)
