@@ -80,7 +80,10 @@ Subject to change. Download this whole thing in one convenient package using [Cu
 ## Rails
   - [Intro to MVC, HTTP, REST, and Rails](https://github.com/ga-wdi-lessons/mvc-intro-rails)
     - [HW: Scribble](https://github.com/ga-wdi-exercises/scribble)
+  - [Porting Sinatra Tunr to Rails](https://github.com/ga-wdi-lessons/porting-sinatra-to-rails)
+    - [HW: Reading Rails Guides - Getting Started w/ Rails](http://guides.rubyonrails.org/getting_started.html)   
   - [Rails Read, Create, Delete](https://github.com/ga-wdi-lessons/rails_features_CRD)
+    - [HW: Scribble](https://github.com/ga-wdi-exercises/scribble)
   - [Rails Edit, Update, and Partials](https://github.com/ga-wdi-lessons/rails-features-U-partials)
   - [Validations, Flash, and Error Handling](https://github.com/ga-wdi-lessons/rails-errors-validations-flash)
   - [Associations Forms in Rails]()
