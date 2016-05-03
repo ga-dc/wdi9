@@ -95,16 +95,13 @@ Subject to change. Download this whole thing in one convenient package using [Cu
 ## Angular and APIs
   - [AJAX and Consuming APIs](https://github.com/ga-wdi-lessons/api-intro)
   - [Single-Page Apps, Angular, Directives, and Controllers](https://github.com/ga-wdi-lessons/angular-intro)
-    - [HW: Grumblr](https://github.com/ga-wdi-exercises/grumblr)
-  - [Factories, Services, and ngResource](https://github.com/ga-wdi-lessons/angular-resources)
-  - [uiRouter](https://github.com/ga-wdi-lessons/angular-routing)
+    - [HW: WDInstagram Angular](https://github.com/ga-wdi-exercises/wdinstagram_angular)
+  - [uiRouter](https://github.com/ga-wdi-lessons/angular-routing/blob/wdi9-updates/updates.md)
+  - [Factories, Services, and ngResource](https://github.com/ga-wdi-lessons/angular-resources/blob/wdi9-updates/updates.md)
   - [Custom Directives](https://github.com/ga-wdi-lessons/angular-directives)
-  - Rails Back, Angular Front
+  - [Rails Back, Angular Front](https://github.com/ga-wdi-lessons/angular-on-rails)
   - [Git Workflow and Teams](https://github.com/ga-wdi-lessons/git-teams)
-  - Lab: WDI Yearbook
-  - [Mini: Authentication](https://github.com/ga-wdi-lessons/angular-auth)
-  - [Mini: Firebase](https://github.com/ga-wdi-lessons/angular-firebase)
-  - [Quiz 6](https://github.com/ga-wdi-quizzes/week-08)
+  - [Lab: WDI Radio](https://github.com/ga-wdi-exercises/wdi_radio_lab)
 
 ## Project 3
   - [Project 3](https://github.com/ga-wdi-exercises/project3)
