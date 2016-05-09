@@ -107,17 +107,19 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Project 3](https://github.com/ga-wdi-exercises/project3)
 
 ## Express and MEAN
-  - [Express: Build a Simple App](https://github.com/ga-wdi-lessons/express-intro)
-    - [HW: Emergency Compliment](https://github.com/ga-wdi-exercises/compliment-express)
-  - [MongoDB, NoSQL, Mongoose, Schema, and Seeds](https://github.com/ga-wdi-lessons/mongo-intro)
-  - Mongoose CRUD
-    - [HW: Mongo Reminders](https://github.com/ga-wdi-exercises/reminders_mongo)
-  - Express, MVC, and How It All Fits Together
-  - Building a MEAN App
-  - Deploying a MEAN App
-  - [Lab: Tunr](https://github.com/ga-wdi-exercises/tunr_rails)
-  - [Auth via Twitter](https://github.com/ga-wdi-lessons/express-oauth)
-  - [Quiz 7](https://github.com/ga-wdi-quizzes/week-10)
+- [HW: Install appropriate software](https://github.com/ga-wdi-lessons/mean-intro/blob/master/setup.md)
+- [Express: Build a Simple App](https://github.com/ga-wdi-lessons/mean-intro)
+- [MongoDB, NoSQL, Mongoose, Schema, and Seeds](https://github.com/ga-wdi-lessons/mongo-intro)
+- [HW: Emergency Compliment](https://github.com/ga-wdi-exercises/compliment-express)
+- [HW: Yum](https://github.com/ga-wdi-exercises/yum)
+- [Mongoose CRUD](https://github.com/ga-wdi-lessons/mongoose-intro)
+- [Express + Mongoose](https://github.com/ga-wdi-lessons/express-mongoose)
+- [HW: CRUD with Mongoose](https://github.com/ga-wdi-exercises/whenpresident/wiki/Homework#after-the-express-mongoose-lesson)
+- [Building a MEAN App](https://github.com/ga-wdi-lessons/building-a-mean-app/blob/master/readme.md)
+- Testing
+- [HW: CRUD with Angular](https://github.com/ga-wdi-exercises/whenpresident/wiki/Homework#after-the-building-a-mean-app-lesson)
+- User Auth
+- [Lab: MEAN Lab](https://github.com/ga-wdi-exercises/mean-lab)
 
 ## Multi-Track
 
