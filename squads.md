@@ -1,6 +1,6 @@
 # Squads
 
-## Andy
+## Tyler
 
 | Name               | Time              |
 |:-------------------|:------------------|
@@ -10,7 +10,7 @@
 | James Reichard     | Thursday at 2:00  |
 | Jordan Ballard     | Friday at 1:30    |
 
-## Tyler
+## Robin
 
 | Name             | Time            |
 |:-----------------|:----------------|
@@ -20,7 +20,7 @@
 | Louis Hankins    | Tuesday at 1:30 |
 | Martinas Terskin | Tuesday at 2:00 |
 
-## Adam
+## Jesse
 
 | Name           | Time                |
 |:---------------|:--------------------|
