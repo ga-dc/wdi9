@@ -110,14 +110,14 @@ Subject to change. Download this whole thing in one convenient package using [Cu
 - [HW: Install appropriate software](https://github.com/ga-wdi-lessons/mean-intro/blob/master/setup.md)
 - [Express: Build a Simple App](https://github.com/ga-wdi-lessons/mean-intro)
 - [MongoDB, NoSQL, Mongoose, Schema, and Seeds](https://github.com/ga-wdi-lessons/mongo-intro)
-- [HW: Emergency Compliment](https://github.com/ga-wdi-exercises/compliment-express)
-- [HW: Yum](https://github.com/ga-wdi-exercises/yum)
+  - [HW: Emergency Compliment](https://github.com/ga-wdi-exercises/compliment-express)
+  - [HW: Yum](https://github.com/ga-wdi-exercises/yum)
 - [Mongoose CRUD](https://github.com/ga-wdi-lessons/mongoose-intro)
 - [Express + Mongoose](https://github.com/ga-wdi-lessons/express-mongoose)
-- [HW: CRUD with Mongoose](https://github.com/ga-wdi-exercises/whenpresident/wiki/Homework#after-the-express-mongoose-lesson)
+  - [HW: Yum and Express](https://github.com/ga-wdi-exercises/yum/blob/master/readme.md#after-the-mongoose-class)
 - [Building a MEAN App](https://github.com/ga-wdi-lessons/building-a-mean-app/blob/master/readme.md)
 - Testing
-- [HW: CRUD with Angular](https://github.com/ga-wdi-exercises/whenpresident/wiki/Homework#after-the-building-a-mean-app-lesson)
+  - [HW: CRUD with Angular](https://github.com/ga-wdi-exercises/whenpresident/wiki/Homework#after-the-building-a-mean-app-lesson)
 - [User Auth with Twitter](https://github.com/ga-wdi-lessons/express-oauth-handrolled)
 - [Lab: MEAN Lab](https://github.com/ga-wdi-exercises/mean-lab)
 
