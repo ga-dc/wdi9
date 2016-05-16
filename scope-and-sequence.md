@@ -118,10 +118,17 @@ Subject to change. Download this whole thing in one convenient package using [Cu
 - [Building a MEAN App](https://github.com/ga-wdi-lessons/building-a-mean-app/blob/master/readme.md)
 - Testing
 - [HW: CRUD with Angular](https://github.com/ga-wdi-exercises/whenpresident/wiki/Homework#after-the-building-a-mean-app-lesson)
-- User Auth
+- [User Auth with Twitter](https://github.com/ga-wdi-lessons/express-oauth-handrolled)
 - [Lab: MEAN Lab](https://github.com/ga-wdi-exercises/mean-lab)
 
 ## Multi-Track
+- [PHP Intro](https://github.com/ga-wdi-lessons/php-intro)
+- [SASS](https://github.com/ga-wdi-lessons/sass-intro)
+- [Build Tools](https://github.com/ga-wdi-lessons/build-tools)
+- [Wordpress Intro](https://github.com/ga-wdi-lessons/wordpress-intro)
+- [Lab: Portfolio](https://github.com/ga-wdi-exercises/end-of-course-portfolio)
+- [React, Part 1](https://github.com/ga-wdi-lessons/react-intro)
+- [React, Part 2](https://github.com/ga-wdi-lessons/react-continued)
 
 ## Project 4
   - [Project 4](https://github.com/ga-wdi-exercises/project4)
