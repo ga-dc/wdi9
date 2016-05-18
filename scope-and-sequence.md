@@ -110,11 +110,11 @@ Subject to change. Download this whole thing in one convenient package using [Cu
 - [HW: Install appropriate software](https://github.com/ga-wdi-lessons/mean-intro/blob/master/setup.md)
 - [Express: Build a Simple App](https://github.com/ga-wdi-lessons/mean-intro)
 - [MongoDB, NoSQL, Mongoose, Schema, and Seeds](https://github.com/ga-wdi-lessons/mongo-intro)
-- [HW: Emergency Compliment](https://github.com/ga-wdi-exercises/compliment-express)
-- [HW: Yum](https://github.com/ga-wdi-exercises/yum)
+  - [HW: Emergency Compliment](https://github.com/ga-wdi-exercises/compliment-express)
+  - [HW: Yum](https://github.com/ga-wdi-exercises/yum)
 - [Mongoose CRUD](https://github.com/ga-wdi-lessons/mongoose-intro)
 - [Express + Mongoose](https://github.com/ga-wdi-lessons/express-mongoose)
-- [HW: CRUD with Mongoose](https://github.com/ga-wdi-exercises/whenpresident/wiki/Homework#after-the-express-mongoose-lesson)
+  - [HW: Yum and Express](https://github.com/ga-wdi-exercises/yum/blob/master/readme.md#after-the-mongoose-class)
 - [Building a MEAN App](https://github.com/ga-wdi-lessons/building-a-mean-app/blob/master/readme.md)
 - [Testing](https://github.com/ga-wdi-lessons/js-jasmine)
 - [HW: CRUD with Angular](https://github.com/ga-wdi-exercises/whenpresident/wiki/Homework#after-the-building-a-mean-app-lesson)
@@ -122,6 +122,13 @@ Subject to change. Download this whole thing in one convenient package using [Cu
 - [Lab: MEAN Lab](https://github.com/ga-wdi-exercises/mean-lab)
 
 ## Multi-Track
+- [PHP Intro](https://github.com/ga-wdi-lessons/php-intro)
+- [SASS](https://github.com/ga-wdi-lessons/sass-intro)
+- [Build Tools](https://github.com/ga-wdi-lessons/build-tools)
+- [Wordpress Intro](https://github.com/ga-wdi-lessons/wordpress-intro)
+- [Lab: Portfolio](https://github.com/ga-wdi-exercises/end-of-course-portfolio)
+- [React, Part 1](https://github.com/ga-wdi-lessons/react-intro)
+- [React, Part 2](https://github.com/ga-wdi-lessons/react-continued)
 
 - [PHP Intro](https://github.com/ga-wdi-lessons/php-intro)
 - [SASS](https://github.com/ga-wdi-lessons/sass-intro)
