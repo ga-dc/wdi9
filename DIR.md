@@ -10,7 +10,7 @@ WDI11 (June cohort) will technically begin on June 27th and will end on Septembe
 
 ## DIR Application Process
 
-1. [Coding exercise](https://github.com/GA-WDI/instructor-code-challenge) will be due by Friday, May 27th @ 9:00am. Please email a link to your repo to Brian (brianm@ga.co).
+1. [Coding exercise](https://github.com/GA-WDI/instructor-code-challenge) will be due by Monday, May 30th @ 9:00am. Please email a link to your repo to Brian (brianm@ga.co).
 2. Based on the results of the coding exercise, we will be selecting a group of students to continue on to the Sample Teach exercise.
 3. Should you be selected for the Sample Teach exercise, you will have at least 7 days to prepare.
 4. We will send the Sample Teach appointments out by EOD Friday, May 27th.
